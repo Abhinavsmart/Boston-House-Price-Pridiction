@@ -81,7 +81,7 @@ Head and tail functions are capable of 5 rows per time. But you can change this 
 Then, the data has what informations. We are learning the information for all data
 The info function shows the data types and numerical values of the features in our data set. In short, this information about our data set. :)
 
-
+4. Data Preprocessing 
 
 .isnull () Detects missing values.
 Return a boolean same-sized object indicating if the values are NA. NA values, such as None or numpy.NaN, gets mapped to True values. Everything else gets mapped to False values. Characters such as empty strings '' or numpy.inf are not considered NA values (unless you set pandas.options.mode.use_inf_as_na = True).
